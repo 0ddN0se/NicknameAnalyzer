@@ -1,0 +1,5029 @@
+[
+    {
+        "nickname": "sigesmunt28",
+        "gender": "female",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "sigesmunt",
+                "lemma": "sigesmunt",
+                "stem": "sigesmunt",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "28",
+                "lemma": "28",
+                "stem": "28",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "mister_green_tea",
+        "gender": "male",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "mister",
+                "lemma": "mister",
+                "stem": "mister",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "green",
+                "lemma": "green",
+                "stem": "green",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "tea",
+                "lemma": "tea",
+                "stem": "tea",
+                "pos": "NOUN",
+                "tag": "NN"
+            }
+        ]
+    },
+    {
+        "nickname": "dont_touch_this_buttom",
+        "gender": "male",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "do",
+                "lemma": "do",
+                "stem": "do",
+                "pos": "VERB",
+                "tag": "VBP"
+            },
+            {
+                "text": "nt",
+                "lemma": "not",
+                "stem": "nt",
+                "pos": "PART",
+                "tag": "RB"
+            },
+            {
+                "text": "touch",
+                "lemma": "touch",
+                "stem": "touch",
+                "pos": "NOUN",
+                "tag": "NN"
+            },
+            {
+                "text": "this",
+                "lemma": "this",
+                "stem": "this",
+                "pos": "PRON",
+                "tag": "DT"
+            },
+            {
+                "text": "buttom",
+                "lemma": "buttom",
+                "stem": "buttom",
+                "pos": "NOUN",
+                "tag": "NN"
+            }
+        ]
+    },
+    {
+        "nickname": "andrewthekekker",
+        "gender": "male",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "andrewthekekker",
+                "lemma": "andrewthekekker",
+                "stem": "andrewthekekk",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "andrewthekekker",
+        "gender": "male",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "andrewthekekker",
+                "lemma": "andrewthekekker",
+                "stem": "andrewthekekk",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "sashahatake",
+        "gender": "male",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "sashahatake",
+                "lemma": "sashahatake",
+                "stem": "sashahatak",
+                "pos": "VERB",
+                "tag": "VB"
+            }
+        ]
+    },
+    {
+        "nickname": "hlowrd",
+        "gender": "male",
+        "education": "technical",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "hlowrd",
+                "lemma": "hlowrd",
+                "stem": "hlowrd",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "id326423774",
+        "gender": "male",
+        "education": "technical",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "i",
+                "lemma": "I",
+                "stem": "i",
+                "pos": "PRON",
+                "tag": "PRP"
+            },
+            {
+                "text": "d",
+                "lemma": "d",
+                "stem": "d",
+                "pos": "VERB",
+                "tag": "VBD"
+            },
+            {
+                "text": "326423774",
+                "lemma": "326423774",
+                "stem": "326423774",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "id326423774",
+        "gender": "male",
+        "education": "technical",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "i",
+                "lemma": "I",
+                "stem": "i",
+                "pos": "PRON",
+                "tag": "PRP"
+            },
+            {
+                "text": "d",
+                "lemma": "d",
+                "stem": "d",
+                "pos": "VERB",
+                "tag": "VBD"
+            },
+            {
+                "text": "326423774",
+                "lemma": "326423774",
+                "stem": "326423774",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "maks125x",
+        "gender": "male",
+        "education": "technical",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "maks",
+                "lemma": "mak",
+                "stem": "mak",
+                "pos": "NOUN",
+                "tag": "NNS"
+            },
+            {
+                "text": "125",
+                "lemma": "125",
+                "stem": "125",
+                "pos": "NUM",
+                "tag": "CD"
+            },
+            {
+                "text": "x",
+                "lemma": "x",
+                "stem": "x",
+                "pos": "X",
+                "tag": "LS"
+            }
+        ]
+    },
+    {
+        "nickname": "topyrkinaa",
+        "gender": "female",
+        "education": "technical",
+        "type": "номинативный",
+        "processed": [
+            {
+                "text": "topyrkinaa",
+                "lemma": "topyrkinaa",
+                "stem": "topyrkinaa",
+                "pos": "NOUN",
+                "tag": "NN"
+            }
+        ]
+    },
+    {
+        "nickname": "oldships",
+        "gender": "male",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "oldships",
+                "lemma": "oldship",
+                "stem": "oldship",
+                "pos": "NOUN",
+                "tag": "NNS"
+            }
+        ]
+    },
+    {
+        "nickname": "id220748528",
+        "gender": "male",
+        "education": "technical",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "i",
+                "lemma": "I",
+                "stem": "i",
+                "pos": "PRON",
+                "tag": "PRP"
+            },
+            {
+                "text": "d",
+                "lemma": "d",
+                "stem": "d",
+                "pos": "VERB",
+                "tag": "VBD"
+            },
+            {
+                "text": "220748528",
+                "lemma": "220748528",
+                "stem": "220748528",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "dancev198392",
+        "gender": "male",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "dancev",
+                "lemma": "dancev",
+                "stem": "dancev",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "198392",
+                "lemma": "198392",
+                "stem": "198392",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "dturygina",
+        "gender": "female",
+        "education": "technical",
+        "type": "номинативный",
+        "processed": [
+            {
+                "text": "dturygina",
+                "lemma": "dturygina",
+                "stem": "dturygina",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "viljevna",
+        "gender": "female",
+        "education": "technical",
+        "type": "номинативный",
+        "processed": [
+            {
+                "text": "viljevna",
+                "lemma": "viljevna",
+                "stem": "viljevna",
+                "pos": "VERB",
+                "tag": "VBZ"
+            }
+        ]
+    },
+    {
+        "nickname": "id247552699",
+        "gender": "female",
+        "education": "technical",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "i",
+                "lemma": "I",
+                "stem": "i",
+                "pos": "PRON",
+                "tag": "PRP"
+            },
+            {
+                "text": "d",
+                "lemma": "d",
+                "stem": "d",
+                "pos": "VERB",
+                "tag": "VBD"
+            },
+            {
+                "text": "247552699",
+                "lemma": "247552699",
+                "stem": "247552699",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "redsnake726",
+        "gender": "male",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "redsnake",
+                "lemma": "redsnake",
+                "stem": "redsnak",
+                "pos": "NOUN",
+                "tag": "NN"
+            },
+            {
+                "text": "726",
+                "lemma": "726",
+                "stem": "726",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "1veneno7",
+        "gender": "female",
+        "education": "humanitarian",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "1",
+                "lemma": "1",
+                "stem": "1",
+                "pos": "NUM",
+                "tag": "CD"
+            },
+            {
+                "text": "veneno",
+                "lemma": "veneno",
+                "stem": "veneno",
+                "pos": "NOUN",
+                "tag": "NN"
+            },
+            {
+                "text": "7",
+                "lemma": "7",
+                "stem": "7",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "worf1ess",
+        "gender": "female",
+        "education": "humanitarian",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "worf",
+                "lemma": "worf",
+                "stem": "worf",
+                "pos": "NOUN",
+                "tag": "NN"
+            },
+            {
+                "text": "1",
+                "lemma": "1",
+                "stem": "1",
+                "pos": "NUM",
+                "tag": "CD"
+            },
+            {
+                "text": "ess",
+                "lemma": "ess",
+                "stem": "ess",
+                "pos": "NOUN",
+                "tag": "NN"
+            }
+        ]
+    },
+    {
+        "nickname": "id180562706",
+        "gender": "female",
+        "education": "humanitarian",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "i",
+                "lemma": "I",
+                "stem": "i",
+                "pos": "PRON",
+                "tag": "PRP"
+            },
+            {
+                "text": "d",
+                "lemma": "d",
+                "stem": "d",
+                "pos": "VERB",
+                "tag": "VBD"
+            },
+            {
+                "text": "180562706",
+                "lemma": "180562706",
+                "stem": "180562706",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "av0302",
+        "gender": "female",
+        "education": "technical",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "av",
+                "lemma": "av",
+                "stem": "av",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "0302",
+                "lemma": "0302",
+                "stem": "0302",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "darharovaa",
+        "gender": "female",
+        "education": "technical",
+        "type": "номинативный",
+        "processed": [
+            {
+                "text": "darharovaa",
+                "lemma": "darharovaa",
+                "stem": "darharovaa",
+                "pos": "VERB",
+                "tag": "VBN"
+            }
+        ]
+    },
+    {
+        "nickname": "kaiyono",
+        "gender": "female",
+        "education": "technical",
+        "type": "номинативный",
+        "processed": [
+            {
+                "text": "kaiyono",
+                "lemma": "kaiyono",
+                "stem": "kaiyono",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "bogdansadriev",
+        "gender": "male",
+        "education": "technical",
+        "type": "номинативный",
+        "processed": [
+            {
+                "text": "bogdansadriev",
+                "lemma": "bogdansadriev",
+                "stem": "bogdansadriev",
+                "pos": "VERB",
+                "tag": "VBG"
+            }
+        ]
+    },
+    {
+        "nickname": "id321606996",
+        "gender": "male",
+        "education": "technical",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "i",
+                "lemma": "I",
+                "stem": "i",
+                "pos": "PRON",
+                "tag": "PRP"
+            },
+            {
+                "text": "d",
+                "lemma": "d",
+                "stem": "d",
+                "pos": "VERB",
+                "tag": "VBD"
+            },
+            {
+                "text": "321606996",
+                "lemma": "321606996",
+                "stem": "321606996",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "den_podsobilov",
+        "gender": "male",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "den",
+                "lemma": "den",
+                "stem": "den",
+                "pos": "VERB",
+                "tag": "VB"
+            },
+            {
+                "text": "podsobilov",
+                "lemma": "podsobilov",
+                "stem": "podsobilov",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "21nek",
+        "gender": "male",
+        "education": "technical",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "21",
+                "lemma": "21",
+                "stem": "21",
+                "pos": "NUM",
+                "tag": "CD"
+            },
+            {
+                "text": "nek",
+                "lemma": "nek",
+                "stem": "nek",
+                "pos": "ADJ",
+                "tag": "JJ"
+            }
+        ]
+    },
+    {
+        "nickname": "fhhwkui",
+        "gender": "female",
+        "education": "technical",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "fhhwkui",
+                "lemma": "fhhwkui",
+                "stem": "fhhwkui",
+                "pos": "NOUN",
+                "tag": "NN"
+            }
+        ]
+    },
+    {
+        "nickname": "id140543736",
+        "gender": "female",
+        "education": "technical",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "i",
+                "lemma": "I",
+                "stem": "i",
+                "pos": "PRON",
+                "tag": "PRP"
+            },
+            {
+                "text": "d",
+                "lemma": "d",
+                "stem": "d",
+                "pos": "VERB",
+                "tag": "VBD"
+            },
+            {
+                "text": "140543736",
+                "lemma": "140543736",
+                "stem": "140543736",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "lizzz77",
+        "gender": "female",
+        "education": "technical",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "lizzz",
+                "lemma": "lizzz",
+                "stem": "lizzz",
+                "pos": "X",
+                "tag": "FW"
+            },
+            {
+                "text": "77",
+                "lemma": "77",
+                "stem": "77",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "yyumaganova",
+        "gender": "female",
+        "education": "technical",
+        "type": "номинативный",
+        "processed": [
+            {
+                "text": "yyumaganova",
+                "lemma": "yyumaganova",
+                "stem": "yyumaganova",
+                "pos": "VERB",
+                "tag": "VB"
+            }
+        ]
+    },
+    {
+        "nickname": "adegtyareva21",
+        "gender": "female",
+        "education": "humanitarian",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "adegtyareva",
+                "lemma": "adegtyareva",
+                "stem": "adegtyareva",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "21",
+                "lemma": "21",
+                "stem": "21",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "holodk",
+        "gender": "female",
+        "education": "humanitarian",
+        "type": "номинативный",
+        "processed": [
+            {
+                "text": "holodk",
+                "lemma": "holodk",
+                "stem": "holodk",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "pankratova_katenka",
+        "gender": "female",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "pankratova",
+                "lemma": "pankratova",
+                "stem": "pankratova",
+                "pos": "VERB",
+                "tag": "VB"
+            },
+            {
+                "text": "katenka",
+                "lemma": "katenka",
+                "stem": "katenka",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "xraund",
+        "gender": "male",
+        "education": "technical",
+        "type": "номинативный",
+        "processed": [
+            {
+                "text": "xraund",
+                "lemma": "xraund",
+                "stem": "xraund",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "i.drushlyakov",
+        "gender": "male",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "i",
+                "lemma": "I",
+                "stem": "i",
+                "pos": "PRON",
+                "tag": "PRP"
+            },
+            {
+                "text": "drushlyakov",
+                "lemma": "drushlyakov",
+                "stem": "drushlyakov",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "id187389901",
+        "gender": "male",
+        "education": "technical",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "i",
+                "lemma": "I",
+                "stem": "i",
+                "pos": "PRON",
+                "tag": "PRP"
+            },
+            {
+                "text": "d",
+                "lemma": "d",
+                "stem": "d",
+                "pos": "VERB",
+                "tag": "VBD"
+            },
+            {
+                "text": "187389901",
+                "lemma": "187389901",
+                "stem": "187389901",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "verm1nd",
+        "gender": "male",
+        "education": "technical",
+        "type": "номинативный",
+        "processed": [
+            {
+                "text": "verm",
+                "lemma": "verm",
+                "stem": "verm",
+                "pos": "NOUN",
+                "tag": "NN"
+            },
+            {
+                "text": "1",
+                "lemma": "1",
+                "stem": "1",
+                "pos": "NUM",
+                "tag": "CD"
+            },
+            {
+                "text": "nd",
+                "lemma": "nd",
+                "stem": "nd",
+                "pos": "ADV",
+                "tag": "RB"
+            }
+        ]
+    },
+    {
+        "nickname": "artemvalt",
+        "gender": "male",
+        "education": "technical",
+        "type": "номинативный",
+        "processed": [
+            {
+                "text": "artemvalt",
+                "lemma": "artemvalt",
+                "stem": "artemvalt",
+                "pos": "VERB",
+                "tag": "VB"
+            }
+        ]
+    },
+    {
+        "nickname": "svetik_almaeva",
+        "gender": "female",
+        "education": "humanitarian",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "svetik",
+                "lemma": "svetik",
+                "stem": "svetik",
+                "pos": "NOUN",
+                "tag": "NN"
+            },
+            {
+                "text": "almaeva",
+                "lemma": "almaeva",
+                "stem": "almaeva",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "id206928519",
+        "gender": "male",
+        "education": "humanitarian",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "i",
+                "lemma": "I",
+                "stem": "i",
+                "pos": "PRON",
+                "tag": "PRP"
+            },
+            {
+                "text": "d",
+                "lemma": "d",
+                "stem": "d",
+                "pos": "VERB",
+                "tag": "VBD"
+            },
+            {
+                "text": "206928519",
+                "lemma": "206928519",
+                "stem": "206928519",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "id186015154",
+        "gender": "male",
+        "education": "technical",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "i",
+                "lemma": "I",
+                "stem": "i",
+                "pos": "PRON",
+                "tag": "PRP"
+            },
+            {
+                "text": "d",
+                "lemma": "d",
+                "stem": "d",
+                "pos": "VERB",
+                "tag": "VBD"
+            },
+            {
+                "text": "186015154",
+                "lemma": "186015154",
+                "stem": "186015154",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "haos_mira",
+        "gender": "female",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "haos",
+                "lemma": "haos",
+                "stem": "hao",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "mira",
+                "lemma": "mira",
+                "stem": "mira",
+                "pos": "NOUN",
+                "tag": "NN"
+            }
+        ]
+    },
+    {
+        "nickname": "nikkkaaaaaaaarrrrr",
+        "gender": "male",
+        "education": "humanitarian",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "nikkkaaaaaaaarrrrr",
+                "lemma": "nikkkaaaaaaaarrrrr",
+                "stem": "nikkkaaaaaaaarrrrr",
+                "pos": "NOUN",
+                "tag": "NN"
+            }
+        ]
+    },
+    {
+        "nickname": "pipi_dastr",
+        "gender": "male",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "pipi",
+                "lemma": "pipi",
+                "stem": "pipi",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "dastr",
+                "lemma": "dastr",
+                "stem": "dastr",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "mashullkaaa",
+        "gender": "female",
+        "education": "humanitarian",
+        "type": "номинативный",
+        "processed": [
+            {
+                "text": "mashullkaaa",
+                "lemma": "mashullkaaa",
+                "stem": "mashullkaaa",
+                "pos": "NOUN",
+                "tag": "NN"
+            }
+        ]
+    },
+    {
+        "nickname": "kkuzyaaa",
+        "gender": "female",
+        "education": "humanitarian",
+        "type": "номинативный",
+        "processed": [
+            {
+                "text": "kkuzyaaa",
+                "lemma": "kkuzyaaa",
+                "stem": "kkuzyaaa",
+                "pos": "NOUN",
+                "tag": "NN"
+            }
+        ]
+    },
+    {
+        "nickname": "okssana.anatolevna",
+        "gender": "female",
+        "education": "humanitarian",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "okssana",
+                "lemma": "okssana",
+                "stem": "okssana",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "anatolevna",
+                "lemma": "anatolevna",
+                "stem": "anatolevna",
+                "pos": "NOUN",
+                "tag": "NNS"
+            }
+        ]
+    },
+    {
+        "nickname": "davidshakh24",
+        "gender": "male",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "davidshakh",
+                "lemma": "davidshakh",
+                "stem": "davidshakh",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "24",
+                "lemma": "24",
+                "stem": "24",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "ekaterinafedyarina",
+        "gender": "female",
+        "education": "humanitarian",
+        "type": "номинативный",
+        "processed": [
+            {
+                "text": "ekaterinafedyarina",
+                "lemma": "ekaterinafedyarina",
+                "stem": "ekaterinafedyarina",
+                "pos": "NOUN",
+                "tag": "NN"
+            }
+        ]
+    },
+    {
+        "nickname": "korolevadp02",
+        "gender": "female",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "korolevadp",
+                "lemma": "korolevadp",
+                "stem": "korolevadp",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "02",
+                "lemma": "02",
+                "stem": "02",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "swipeforcheese",
+        "gender": "female",
+        "education": "humanitarian",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "swipeforcheese",
+                "lemma": "swipeforcheese",
+                "stem": "swipeforchees",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "mirana_mn",
+        "gender": "female",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "mirana",
+                "lemma": "mirana",
+                "stem": "mirana",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "mn",
+                "lemma": "mn",
+                "stem": "mn",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "id153462895",
+        "gender": "male",
+        "education": "scientific",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "i",
+                "lemma": "I",
+                "stem": "i",
+                "pos": "PRON",
+                "tag": "PRP"
+            },
+            {
+                "text": "d",
+                "lemma": "d",
+                "stem": "d",
+                "pos": "VERB",
+                "tag": "VBD"
+            },
+            {
+                "text": "153462895",
+                "lemma": "153462895",
+                "stem": "153462895",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "id203155462",
+        "gender": "male",
+        "education": "scientific",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "i",
+                "lemma": "I",
+                "stem": "i",
+                "pos": "PRON",
+                "tag": "PRP"
+            },
+            {
+                "text": "d",
+                "lemma": "d",
+                "stem": "d",
+                "pos": "VERB",
+                "tag": "VBD"
+            },
+            {
+                "text": "203155462",
+                "lemma": "203155462",
+                "stem": "203155462",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "id102554987",
+        "gender": "male",
+        "education": "scientific",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "i",
+                "lemma": "I",
+                "stem": "i",
+                "pos": "PRON",
+                "tag": "PRP"
+            },
+            {
+                "text": "d",
+                "lemma": "d",
+                "stem": "d",
+                "pos": "VERB",
+                "tag": "VBD"
+            },
+            {
+                "text": "102554987",
+                "lemma": "102554987",
+                "stem": "102554987",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "dr.evseev_vs",
+        "gender": "male",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "dr",
+                "lemma": "dr",
+                "stem": "dr",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "evseev",
+                "lemma": "evseev",
+                "stem": "evseev",
+                "pos": "VERB",
+                "tag": "VB"
+            },
+            {
+                "text": "vs",
+                "lemma": "vs",
+                "stem": "vs",
+                "pos": "INTJ",
+                "tag": "UH"
+            }
+        ]
+    },
+    {
+        "nickname": "oleja2021",
+        "gender": "male",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "oleja",
+                "lemma": "oleja",
+                "stem": "oleja",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "2021",
+                "lemma": "2021",
+                "stem": "2021",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "justcursedguy",
+        "gender": "male",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "justcursedguy",
+                "lemma": "justcursedguy",
+                "stem": "justcursedguy",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "id190804962",
+        "gender": "male",
+        "education": "scientific",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "i",
+                "lemma": "I",
+                "stem": "i",
+                "pos": "PRON",
+                "tag": "PRP"
+            },
+            {
+                "text": "d",
+                "lemma": "d",
+                "stem": "d",
+                "pos": "VERB",
+                "tag": "VBD"
+            },
+            {
+                "text": "190804962",
+                "lemma": "190804962",
+                "stem": "190804962",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "mrfoggy13",
+        "gender": "male",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "mrfoggy",
+                "lemma": "mrfoggy",
+                "stem": "mrfoggi",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "13",
+                "lemma": "13",
+                "stem": "13",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "topvj",
+        "gender": "male",
+        "education": "scientific",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "topvj",
+                "lemma": "topvj",
+                "stem": "topvj",
+                "pos": "NOUN",
+                "tag": "NN"
+            }
+        ]
+    },
+    {
+        "nickname": "id202028677",
+        "gender": "male",
+        "education": "scientific",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "i",
+                "lemma": "I",
+                "stem": "i",
+                "pos": "PRON",
+                "tag": "PRP"
+            },
+            {
+                "text": "d",
+                "lemma": "d",
+                "stem": "d",
+                "pos": "VERB",
+                "tag": "VBD"
+            },
+            {
+                "text": "202028677",
+                "lemma": "202028677",
+                "stem": "202028677",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "buildstone",
+        "gender": "male",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "buildstone",
+                "lemma": "buildstone",
+                "stem": "buildston",
+                "pos": "NOUN",
+                "tag": "NN"
+            }
+        ]
+    },
+    {
+        "nickname": "pomery_poidem",
+        "gender": "male",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "pomery",
+                "lemma": "pomery",
+                "stem": "pomeri",
+                "pos": "ADJ",
+                "tag": "JJ"
+            },
+            {
+                "text": "poidem",
+                "lemma": "poidem",
+                "stem": "poidem",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "andrivan1",
+        "gender": "male",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "andrivan",
+                "lemma": "andrivan",
+                "stem": "andrivan",
+                "pos": "VERB",
+                "tag": "VBG"
+            },
+            {
+                "text": "1",
+                "lemma": "1",
+                "stem": "1",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "id444367376",
+        "gender": "male",
+        "education": "scientific",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "i",
+                "lemma": "I",
+                "stem": "i",
+                "pos": "PRON",
+                "tag": "PRP"
+            },
+            {
+                "text": "d",
+                "lemma": "d",
+                "stem": "d",
+                "pos": "VERB",
+                "tag": "VBD"
+            },
+            {
+                "text": "444367376",
+                "lemma": "444367376",
+                "stem": "444367376",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "bknart",
+        "gender": "male",
+        "education": "scientific",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "bknart",
+                "lemma": "bknart",
+                "stem": "bknart",
+                "pos": "VERB",
+                "tag": "VB"
+            }
+        ]
+    },
+    {
+        "nickname": "glebus.compactus",
+        "gender": "male",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "glebus",
+                "lemma": "glebus",
+                "stem": "glebus",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "compactus",
+                "lemma": "compactus",
+                "stem": "compactus",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "zub4kin",
+        "gender": "male",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "zub",
+                "lemma": "zub",
+                "stem": "zub",
+                "pos": "NOUN",
+                "tag": "NN"
+            },
+            {
+                "text": "4",
+                "lemma": "4",
+                "stem": "4",
+                "pos": "NUM",
+                "tag": "CD"
+            },
+            {
+                "text": "kin",
+                "lemma": "kin",
+                "stem": "kin",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "chesterbern",
+        "gender": "male",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "chesterbern",
+                "lemma": "chesterbern",
+                "stem": "chesterbern",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "nluzhnov",
+        "gender": "male",
+        "education": "scientific",
+        "type": "номинативный",
+        "processed": [
+            {
+                "text": "nluzhnov",
+                "lemma": "nluzhnov",
+                "stem": "nluzhnov",
+                "pos": "NOUN",
+                "tag": "NN"
+            }
+        ]
+    },
+    {
+        "nickname": "danisim0_o",
+        "gender": "male",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "danisim",
+                "lemma": "danisim",
+                "stem": "danisim",
+                "pos": "NOUN",
+                "tag": "NN"
+            },
+            {
+                "text": "0",
+                "lemma": "0",
+                "stem": "0",
+                "pos": "NUM",
+                "tag": "CD"
+            },
+            {
+                "text": "o",
+                "lemma": "o",
+                "stem": "o",
+                "pos": "X",
+                "tag": "LS"
+            }
+        ]
+    },
+    {
+        "nickname": "shefer00",
+        "gender": "male",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "shefer",
+                "lemma": "shefer",
+                "stem": "shefer",
+                "pos": "VERB",
+                "tag": "VB"
+            },
+            {
+                "text": "00",
+                "lemma": "00",
+                "stem": "00",
+                "pos": "PUNCT",
+                "tag": "NFP"
+            }
+        ]
+    },
+    {
+        "nickname": "ptroyanzxc1",
+        "gender": "male",
+        "education": "scientific",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "ptroyanzxc",
+                "lemma": "ptroyanzxc",
+                "stem": "ptroyanzxc",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "1",
+                "lemma": "1",
+                "stem": "1",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "qoopir",
+        "gender": "male",
+        "education": "scientific",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "qoopir",
+                "lemma": "qoopir",
+                "stem": "qoopir",
+                "pos": "ADJ",
+                "tag": "JJ"
+            }
+        ]
+    },
+    {
+        "nickname": "ilya_hayt",
+        "gender": "male",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "ilya",
+                "lemma": "ilya",
+                "stem": "ilya",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "hayt",
+                "lemma": "hayt",
+                "stem": "hayt",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "demonexpert",
+        "gender": "male",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "demonexpert",
+                "lemma": "demonexpert",
+                "stem": "demonexpert",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "id213617744",
+        "gender": "male",
+        "education": "scientific",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "i",
+                "lemma": "I",
+                "stem": "i",
+                "pos": "PRON",
+                "tag": "PRP"
+            },
+            {
+                "text": "d",
+                "lemma": "d",
+                "stem": "d",
+                "pos": "VERB",
+                "tag": "VBD"
+            },
+            {
+                "text": "213617744",
+                "lemma": "213617744",
+                "stem": "213617744",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "sasha_ryzhkov",
+        "gender": "male",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "sasha",
+                "lemma": "sasha",
+                "stem": "sasha",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "ryzhkov",
+                "lemma": "ryzhkov",
+                "stem": "ryzhkov",
+                "pos": "NOUN",
+                "tag": "NN"
+            }
+        ]
+    },
+    {
+        "nickname": "dekselik",
+        "gender": "male",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "dekselik",
+                "lemma": "dekselik",
+                "stem": "dekselik",
+                "pos": "X",
+                "tag": "FW"
+            }
+        ]
+    },
+    {
+        "nickname": "spootnikkk",
+        "gender": "male",
+        "education": "scientific",
+        "type": "номинативный",
+        "processed": [
+            {
+                "text": "spootnikkk",
+                "lemma": "spootnikkk",
+                "stem": "spootnikkk",
+                "pos": "VERB",
+                "tag": "VB"
+            }
+        ]
+    },
+    {
+        "nickname": "umenyapatau",
+        "gender": "male",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "umenyapatau",
+                "lemma": "umenyapatau",
+                "stem": "umenyapatau",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "dreamofrekt",
+        "gender": "male",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "dreamofrekt",
+                "lemma": "dreamofrekt",
+                "stem": "dreamofrekt",
+                "pos": "NOUN",
+                "tag": "NNS"
+            }
+        ]
+    },
+    {
+        "nickname": "jazzy_st",
+        "gender": "male",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "jazzy",
+                "lemma": "jazzy",
+                "stem": "jazzi",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "st",
+                "lemma": "st",
+                "stem": "st",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "bruhteambro",
+        "gender": "male",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "bruhteambro",
+                "lemma": "bruhteambro",
+                "stem": "bruhteambro",
+                "pos": "X",
+                "tag": "FW"
+            }
+        ]
+    },
+    {
+        "nickname": "dr_danmed63",
+        "gender": "male",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "dr",
+                "lemma": "dr",
+                "stem": "dr",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "danmed",
+                "lemma": "danme",
+                "stem": "danm",
+                "pos": "VERB",
+                "tag": "VBN"
+            },
+            {
+                "text": "63",
+                "lemma": "63",
+                "stem": "63",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "id459306204",
+        "gender": "male",
+        "education": "scientific",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "i",
+                "lemma": "I",
+                "stem": "i",
+                "pos": "PRON",
+                "tag": "PRP"
+            },
+            {
+                "text": "d",
+                "lemma": "d",
+                "stem": "d",
+                "pos": "VERB",
+                "tag": "VBD"
+            },
+            {
+                "text": "459306204",
+                "lemma": "459306204",
+                "stem": "459306204",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "artemfiend",
+        "gender": "male",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "artemfiend",
+                "lemma": "artemfiend",
+                "stem": "artemfiend",
+                "pos": "VERB",
+                "tag": "VB"
+            }
+        ]
+    },
+    {
+        "nickname": "happyezbtch",
+        "gender": "male",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "happyezbtch",
+                "lemma": "happyezbtch",
+                "stem": "happyezbtch",
+                "pos": "VERB",
+                "tag": "VB"
+            }
+        ]
+    },
+    {
+        "nickname": "id339497197",
+        "gender": "male",
+        "education": "scientific",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "i",
+                "lemma": "I",
+                "stem": "i",
+                "pos": "PRON",
+                "tag": "PRP"
+            },
+            {
+                "text": "d",
+                "lemma": "d",
+                "stem": "d",
+                "pos": "VERB",
+                "tag": "VBD"
+            },
+            {
+                "text": "339497197",
+                "lemma": "339497197",
+                "stem": "339497197",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "ambassadorofcringe",
+        "gender": "male",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "ambassadorofcringe",
+                "lemma": "ambassadorofcringe",
+                "stem": "ambassadorofcring",
+                "pos": "VERB",
+                "tag": "VB"
+            }
+        ]
+    },
+    {
+        "nickname": "tot010295",
+        "gender": "male",
+        "education": "scientific",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "tot",
+                "lemma": "tot",
+                "stem": "tot",
+                "pos": "NOUN",
+                "tag": "NN"
+            },
+            {
+                "text": "010295",
+                "lemma": "010295",
+                "stem": "010295",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "egor_zherebcov13",
+        "gender": "male",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "egor",
+                "lemma": "egor",
+                "stem": "egor",
+                "pos": "VERB",
+                "tag": "VB"
+            },
+            {
+                "text": "zherebcov",
+                "lemma": "zherebcov",
+                "stem": "zherebcov",
+                "pos": "NOUN",
+                "tag": "NN"
+            },
+            {
+                "text": "13",
+                "lemma": "13",
+                "stem": "13",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "olegi_63",
+        "gender": "male",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "olegi",
+                "lemma": "olegi",
+                "stem": "olegi",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "63",
+                "lemma": "63",
+                "stem": "63",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "whatatelse",
+        "gender": "male",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "whatatelse",
+                "lemma": "whatatelse",
+                "stem": "whatatels",
+                "pos": "NOUN",
+                "tag": "NN"
+            }
+        ]
+    },
+    {
+        "nickname": "id30183271",
+        "gender": "male",
+        "education": "scientific",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "i",
+                "lemma": "I",
+                "stem": "i",
+                "pos": "PRON",
+                "tag": "PRP"
+            },
+            {
+                "text": "d",
+                "lemma": "d",
+                "stem": "d",
+                "pos": "VERB",
+                "tag": "VBD"
+            },
+            {
+                "text": "30183271",
+                "lemma": "30183271",
+                "stem": "30183271",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "id147737038",
+        "gender": "male",
+        "education": "scientific",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "i",
+                "lemma": "I",
+                "stem": "i",
+                "pos": "PRON",
+                "tag": "PRP"
+            },
+            {
+                "text": "d",
+                "lemma": "d",
+                "stem": "d",
+                "pos": "VERB",
+                "tag": "VBD"
+            },
+            {
+                "text": "147737038",
+                "lemma": "147737038",
+                "stem": "147737038",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "timiavv",
+        "gender": "male",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "timiavv",
+                "lemma": "timiavv",
+                "stem": "timiavv",
+                "pos": "NOUN",
+                "tag": "NNS"
+            }
+        ]
+    },
+    {
+        "nickname": "chudo_karim",
+        "gender": "male",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "chudo",
+                "lemma": "chudo",
+                "stem": "chudo",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "karim",
+                "lemma": "karim",
+                "stem": "karim",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "trouble_bro",
+        "gender": "male",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "trouble",
+                "lemma": "trouble",
+                "stem": "troubl",
+                "pos": "NOUN",
+                "tag": "NN"
+            },
+            {
+                "text": "bro",
+                "lemma": "bro",
+                "stem": "bro",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "kybezymie014",
+        "gender": "male",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "kybezymie",
+                "lemma": "kybezymie",
+                "stem": "kybezymi",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "014",
+                "lemma": "014",
+                "stem": "014",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "mkrestov",
+        "gender": "male",
+        "education": "scientific",
+        "type": "номинативный",
+        "processed": [
+            {
+                "text": "mkrestov",
+                "lemma": "mkrestov",
+                "stem": "mkrestov",
+                "pos": "NOUN",
+                "tag": "NN"
+            }
+        ]
+    },
+    {
+        "nickname": "id410430568",
+        "gender": "female",
+        "education": "scientific",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "i",
+                "lemma": "I",
+                "stem": "i",
+                "pos": "PRON",
+                "tag": "PRP"
+            },
+            {
+                "text": "d",
+                "lemma": "d",
+                "stem": "d",
+                "pos": "VERB",
+                "tag": "VBD"
+            },
+            {
+                "text": "410430568",
+                "lemma": "410430568",
+                "stem": "410430568",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "khlshrlo1998",
+        "gender": "female",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "khlshrlo",
+                "lemma": "khlshrlo",
+                "stem": "khlshrlo",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "1998",
+                "lemma": "1998",
+                "stem": "1998",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "ta.samaya.zotova",
+        "gender": "female",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "ta",
+                "lemma": "ta",
+                "stem": "ta",
+                "pos": "ADP",
+                "tag": "IN"
+            },
+            {
+                "text": "samaya",
+                "lemma": "samaya",
+                "stem": "samaya",
+                "pos": "VERB",
+                "tag": "VB"
+            },
+            {
+                "text": "zotova",
+                "lemma": "zotova",
+                "stem": "zotova",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "rurixs",
+        "gender": "female",
+        "education": "scientific",
+        "type": "номинативный",
+        "processed": [
+            {
+                "text": "rurixs",
+                "lemma": "rurixs",
+                "stem": "rurix",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "victory_tarr",
+        "gender": "female",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "victory",
+                "lemma": "victory",
+                "stem": "victori",
+                "pos": "NOUN",
+                "tag": "NN"
+            },
+            {
+                "text": "tarr",
+                "lemma": "tarr",
+                "stem": "tarr",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "elizaa_tee",
+        "gender": "female",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "elizaa",
+                "lemma": "elizaa",
+                "stem": "elizaa",
+                "pos": "NOUN",
+                "tag": "NN"
+            },
+            {
+                "text": "tee",
+                "lemma": "tee",
+                "stem": "tee",
+                "pos": "NOUN",
+                "tag": "NN"
+            }
+        ]
+    },
+    {
+        "nickname": "kusly2",
+        "gender": "female",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "kusly",
+                "lemma": "kusly",
+                "stem": "kusli",
+                "pos": "ADV",
+                "tag": "RB"
+            },
+            {
+                "text": "2",
+                "lemma": "2",
+                "stem": "2",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "lizentsia",
+        "gender": "female",
+        "education": "scientific",
+        "type": "номинативный",
+        "processed": [
+            {
+                "text": "lizentsia",
+                "lemma": "lizentsia",
+                "stem": "lizentsia",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "bezdushnaya_tvarr",
+        "gender": "female",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "bezdushnaya",
+                "lemma": "bezdushnaya",
+                "stem": "bezdushnaya",
+                "pos": "NOUN",
+                "tag": "NN"
+            },
+            {
+                "text": "tvarr",
+                "lemma": "tvarr",
+                "stem": "tvarr",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "varvara2016",
+        "gender": "female",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "varvara",
+                "lemma": "varvara",
+                "stem": "varvara",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "2016",
+                "lemma": "2016",
+                "stem": "2016",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "id17519038",
+        "gender": "male",
+        "education": "scientific",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "i",
+                "lemma": "I",
+                "stem": "i",
+                "pos": "PRON",
+                "tag": "PRP"
+            },
+            {
+                "text": "d",
+                "lemma": "d",
+                "stem": "d",
+                "pos": "VERB",
+                "tag": "VBD"
+            },
+            {
+                "text": "17519038",
+                "lemma": "17519038",
+                "stem": "17519038",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "id203155462",
+        "gender": "male",
+        "education": "scientific",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "i",
+                "lemma": "I",
+                "stem": "i",
+                "pos": "PRON",
+                "tag": "PRP"
+            },
+            {
+                "text": "d",
+                "lemma": "d",
+                "stem": "d",
+                "pos": "VERB",
+                "tag": "VBD"
+            },
+            {
+                "text": "203155462",
+                "lemma": "203155462",
+                "stem": "203155462",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "p1u5hka",
+        "gender": "female",
+        "education": "scientific",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "p",
+                "lemma": "p",
+                "stem": "p",
+                "pos": "X",
+                "tag": "LS"
+            },
+            {
+                "text": "1",
+                "lemma": "1",
+                "stem": "1",
+                "pos": "NUM",
+                "tag": "CD"
+            },
+            {
+                "text": "u",
+                "lemma": "u",
+                "stem": "u",
+                "pos": "NOUN",
+                "tag": "NN"
+            },
+            {
+                "text": "5",
+                "lemma": "5",
+                "stem": "5",
+                "pos": "NUM",
+                "tag": "CD"
+            },
+            {
+                "text": "hka",
+                "lemma": "hka",
+                "stem": "hka",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "olechka_luzan",
+        "gender": "female",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "olechka",
+                "lemma": "olechka",
+                "stem": "olechka",
+                "pos": "NOUN",
+                "tag": "NN"
+            },
+            {
+                "text": "luzan",
+                "lemma": "luzan",
+                "stem": "luzan",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "darya_storchevaya",
+        "gender": "female",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "darya",
+                "lemma": "darya",
+                "stem": "darya",
+                "pos": "VERB",
+                "tag": "VBZ"
+            },
+            {
+                "text": "storchevaya",
+                "lemma": "storchevaya",
+                "stem": "storchevaya",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "tododoshik",
+        "gender": "female",
+        "education": "scientific",
+        "type": "номинативный",
+        "processed": [
+            {
+                "text": "tododoshik",
+                "lemma": "tododoshik",
+                "stem": "tododoshik",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "id.narakas",
+        "gender": "female",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "i",
+                "lemma": "I",
+                "stem": "i",
+                "pos": "PRON",
+                "tag": "PRP"
+            },
+            {
+                "text": "d",
+                "lemma": "d",
+                "stem": "d",
+                "pos": "VERB",
+                "tag": "VBD"
+            },
+            {
+                "text": "narakas",
+                "lemma": "narakas",
+                "stem": "naraka",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "monangeliu",
+        "gender": "female",
+        "education": "scientific",
+        "type": "номинативный",
+        "processed": [
+            {
+                "text": "monangeliu",
+                "lemma": "monangeliu",
+                "stem": "monangeliu",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "id359322105",
+        "gender": "female",
+        "education": "scientific",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "i",
+                "lemma": "I",
+                "stem": "i",
+                "pos": "PRON",
+                "tag": "PRP"
+            },
+            {
+                "text": "d",
+                "lemma": "d",
+                "stem": "d",
+                "pos": "VERB",
+                "tag": "VBD"
+            },
+            {
+                "text": "359322105",
+                "lemma": "359322105",
+                "stem": "359322105",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "kate1332",
+        "gender": "female",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "kate",
+                "lemma": "kate",
+                "stem": "kate",
+                "pos": "VERB",
+                "tag": "VB"
+            },
+            {
+                "text": "1332",
+                "lemma": "1332",
+                "stem": "1332",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "ideseniya2002",
+        "gender": "female",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "ideseniya",
+                "lemma": "ideseniya",
+                "stem": "ideseniya",
+                "pos": "NOUN",
+                "tag": "NN"
+            },
+            {
+                "text": "2002",
+                "lemma": "2002",
+                "stem": "2002",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "cactuuuss",
+        "gender": "female",
+        "education": "scientific",
+        "type": "номинативный",
+        "processed": [
+            {
+                "text": "cactuuuss",
+                "lemma": "cactuuuss",
+                "stem": "cactuuuss",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "vika_samara_foto",
+        "gender": "female",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "vika",
+                "lemma": "vika",
+                "stem": "vika",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "samara",
+                "lemma": "samara",
+                "stem": "samara",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "foto",
+                "lemma": "foto",
+                "stem": "foto",
+                "pos": "NOUN",
+                "tag": "NN"
+            }
+        ]
+    },
+    {
+        "nickname": "afkhokagecat",
+        "gender": "female",
+        "education": "scientific",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "afkhokagecat",
+                "lemma": "afkhokagecat",
+                "stem": "afkhokagecat",
+                "pos": "NOUN",
+                "tag": "NN"
+            }
+        ]
+    },
+    {
+        "nickname": "thehelorfeel",
+        "gender": "female",
+        "education": "scientific",
+        "type": "номинативный",
+        "processed": [
+            {
+                "text": "thehelorfeel",
+                "lemma": "thehelorfeel",
+                "stem": "thehelorfeel",
+                "pos": "NOUN",
+                "tag": "NN"
+            }
+        ]
+    },
+    {
+        "nickname": "razumgay",
+        "gender": "female",
+        "education": "scientific",
+        "type": "номинативный",
+        "processed": [
+            {
+                "text": "razumgay",
+                "lemma": "razumgay",
+                "stem": "razumgay",
+                "pos": "ADJ",
+                "tag": "JJ"
+            }
+        ]
+    },
+    {
+        "nickname": "vvvaleree",
+        "gender": "female",
+        "education": "scientific",
+        "type": "номинативный",
+        "processed": [
+            {
+                "text": "vvvaleree",
+                "lemma": "vvvaleree",
+                "stem": "vvvalere",
+                "pos": "NOUN",
+                "tag": "NN"
+            }
+        ]
+    },
+    {
+        "nickname": "id192064915",
+        "gender": "female",
+        "education": "scientific",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "i",
+                "lemma": "I",
+                "stem": "i",
+                "pos": "PRON",
+                "tag": "PRP"
+            },
+            {
+                "text": "d",
+                "lemma": "d",
+                "stem": "d",
+                "pos": "VERB",
+                "tag": "VBD"
+            },
+            {
+                "text": "192064915",
+                "lemma": "192064915",
+                "stem": "192064915",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "lerochka717",
+        "gender": "female",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "lerochka",
+                "lemma": "lerochka",
+                "stem": "lerochka",
+                "pos": "VERB",
+                "tag": "VB"
+            },
+            {
+                "text": "717",
+                "lemma": "717",
+                "stem": "717",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "ks.annet",
+        "gender": "female",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "ks",
+                "lemma": "ks",
+                "stem": "ks",
+                "pos": "ADP",
+                "tag": "IN"
+            },
+            {
+                "text": "annet",
+                "lemma": "annet",
+                "stem": "annet",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "id119955193",
+        "gender": "female",
+        "education": "scientific",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "i",
+                "lemma": "I",
+                "stem": "i",
+                "pos": "PRON",
+                "tag": "PRP"
+            },
+            {
+                "text": "d",
+                "lemma": "d",
+                "stem": "d",
+                "pos": "VERB",
+                "tag": "VBD"
+            },
+            {
+                "text": "119955193",
+                "lemma": "119955193",
+                "stem": "119955193",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "jl.alexandrovna",
+        "gender": "female",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "jl",
+                "lemma": "jl",
+                "stem": "jl",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "alexandrovna",
+                "lemma": "alexandrovna",
+                "stem": "alexandrovna",
+                "pos": "NOUN",
+                "tag": "NNS"
+            }
+        ]
+    },
+    {
+        "nickname": "lebedev.valeria",
+        "gender": "female",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "lebedev",
+                "lemma": "lebedev",
+                "stem": "lebedev",
+                "pos": "NOUN",
+                "tag": "NN"
+            },
+            {
+                "text": "valeria",
+                "lemma": "valeria",
+                "stem": "valeria",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "ksu_sha_ma",
+        "gender": "female",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "ksu",
+                "lemma": "ksu",
+                "stem": "ksu",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "sha",
+                "lemma": "sha",
+                "stem": "sha",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "ma",
+                "lemma": "ma",
+                "stem": "ma",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "timchenko_kristinka",
+        "gender": "female",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "timchenko",
+                "lemma": "timchenko",
+                "stem": "timchenko",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "kristinka",
+                "lemma": "kristinka",
+                "stem": "kristinka",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "nastuksaaa",
+        "gender": "female",
+        "education": "scientific",
+        "type": "номинативный",
+        "processed": [
+            {
+                "text": "nastuksaaa",
+                "lemma": "nastuksaaa",
+                "stem": "nastuksaaa",
+                "pos": "NOUN",
+                "tag": "NN"
+            }
+        ]
+    },
+    {
+        "nickname": "klempert_val",
+        "gender": "female",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "klempert",
+                "lemma": "klempert",
+                "stem": "klempert",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "val",
+                "lemma": "val",
+                "stem": "val",
+                "pos": "NOUN",
+                "tag": "NN"
+            }
+        ]
+    },
+    {
+        "nickname": "bocharova_999",
+        "gender": "female",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "bocharova",
+                "lemma": "bocharova",
+                "stem": "bocharova",
+                "pos": "VERB",
+                "tag": "VB"
+            },
+            {
+                "text": "999",
+                "lemma": "999",
+                "stem": "999",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "Chadaewa98o",
+        "gender": "female",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "Chadaewa",
+                "lemma": "Chadaewa",
+                "stem": "chadaewa",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "98",
+                "lemma": "98",
+                "stem": "98",
+                "pos": "NUM",
+                "tag": "CD"
+            },
+            {
+                "text": "o",
+                "lemma": "o",
+                "stem": "o",
+                "pos": "X",
+                "tag": "LS"
+            }
+        ]
+    },
+    {
+        "nickname": "paramonova8459",
+        "gender": "female",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "paramonova",
+                "lemma": "paramonova",
+                "stem": "paramonova",
+                "pos": "VERB",
+                "tag": "VB"
+            },
+            {
+                "text": "8459",
+                "lemma": "8459",
+                "stem": "8459",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "l.nikolskaya",
+        "gender": "female",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "l",
+                "lemma": "l",
+                "stem": "l",
+                "pos": "NOUN",
+                "tag": "NN"
+            },
+            {
+                "text": "nikolskaya",
+                "lemma": "nikolskaya",
+                "stem": "nikolskaya",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "mario_lef",
+        "gender": "male",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "mario",
+                "lemma": "mario",
+                "stem": "mario",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "lef",
+                "lemma": "lef",
+                "stem": "lef",
+                "pos": "NOUN",
+                "tag": "NN"
+            }
+        ]
+    },
+    {
+        "nickname": "katerinamast",
+        "gender": "female",
+        "education": "scientific",
+        "type": "номинативный",
+        "processed": [
+            {
+                "text": "katerinamast",
+                "lemma": "katerinamast",
+                "stem": "katerinamast",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "dv2405",
+        "gender": "female",
+        "education": "scientific",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "dv",
+                "lemma": "dv",
+                "stem": "dv",
+                "pos": "INTJ",
+                "tag": "UH"
+            },
+            {
+                "text": "2405",
+                "lemma": "2405",
+                "stem": "2405",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "ek1mova",
+        "gender": "female",
+        "education": "scientific",
+        "type": "номинативный",
+        "processed": [
+            {
+                "text": "ek",
+                "lemma": "ek",
+                "stem": "ek",
+                "pos": "ADV",
+                "tag": "RB"
+            },
+            {
+                "text": "1",
+                "lemma": "1",
+                "stem": "1",
+                "pos": "NUM",
+                "tag": "CD"
+            },
+            {
+                "text": "mova",
+                "lemma": "mova",
+                "stem": "mova",
+                "pos": "PRON",
+                "tag": "PRP"
+            }
+        ]
+    },
+    {
+        "nickname": "id139651506",
+        "gender": "female",
+        "education": "scientific",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "i",
+                "lemma": "I",
+                "stem": "i",
+                "pos": "PRON",
+                "tag": "PRP"
+            },
+            {
+                "text": "d",
+                "lemma": "d",
+                "stem": "d",
+                "pos": "VERB",
+                "tag": "VBD"
+            },
+            {
+                "text": "139651506",
+                "lemma": "139651506",
+                "stem": "139651506",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "the_fenix_vl",
+        "gender": "female",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "the",
+                "lemma": "the",
+                "stem": "the",
+                "pos": "PRON",
+                "tag": "DT"
+            },
+            {
+                "text": "fenix",
+                "lemma": "fenix",
+                "stem": "fenix",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "vl",
+                "lemma": "vl",
+                "stem": "vl",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "id179447651",
+        "gender": "female",
+        "education": "scientific",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "i",
+                "lemma": "I",
+                "stem": "i",
+                "pos": "PRON",
+                "tag": "PRP"
+            },
+            {
+                "text": "d",
+                "lemma": "d",
+                "stem": "d",
+                "pos": "VERB",
+                "tag": "VBD"
+            },
+            {
+                "text": "179447651",
+                "lemma": "179447651",
+                "stem": "179447651",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "makartt.music",
+        "gender": "male",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "makartt",
+                "lemma": "makartt",
+                "stem": "makartt",
+                "pos": "NOUN",
+                "tag": "NN"
+            },
+            {
+                "text": "music",
+                "lemma": "music",
+                "stem": "music",
+                "pos": "NOUN",
+                "tag": "NN"
+            }
+        ]
+    },
+    {
+        "nickname": "i.proshina2001",
+        "gender": "female",
+        "education": "scientific",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "i",
+                "lemma": "I",
+                "stem": "i",
+                "pos": "PRON",
+                "tag": "PRP"
+            },
+            {
+                "text": "proshina",
+                "lemma": "proshina",
+                "stem": "proshina",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "2001",
+                "lemma": "2001",
+                "stem": "2001",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "stop_devochka",
+        "gender": "female",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "stop",
+                "lemma": "stop",
+                "stem": "stop",
+                "pos": "VERB",
+                "tag": "VB"
+            },
+            {
+                "text": "devochka",
+                "lemma": "devochka",
+                "stem": "devochka",
+                "pos": "VERB",
+                "tag": "VB"
+            }
+        ]
+    },
+    {
+        "nickname": "k.kristina068",
+        "gender": "female",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "k",
+                "lemma": "k",
+                "stem": "k",
+                "pos": "X",
+                "tag": "LS"
+            },
+            {
+                "text": "kristina",
+                "lemma": "kristina",
+                "stem": "kristina",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "068",
+                "lemma": "068",
+                "stem": "068",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "bkk4444",
+        "gender": "female",
+        "education": "technical",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "bkk",
+                "lemma": "bkk",
+                "stem": "bkk",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "4444",
+                "lemma": "4444",
+                "stem": "4444",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "m.ashakireeva",
+        "gender": "female",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "m",
+                "lemma": "m",
+                "stem": "m",
+                "pos": "VERB",
+                "tag": "VBP"
+            },
+            {
+                "text": "ashakireeva",
+                "lemma": "ashakireeva",
+                "stem": "ashakireeva",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "v_serdechke",
+        "gender": "female",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "v",
+                "lemma": "v",
+                "stem": "v",
+                "pos": "X",
+                "tag": "LS"
+            },
+            {
+                "text": "serdechke",
+                "lemma": "serdechke",
+                "stem": "serdechk",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "polovova2003",
+        "gender": "female",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "polovova",
+                "lemma": "polovova",
+                "stem": "polovova",
+                "pos": "VERB",
+                "tag": "VB"
+            },
+            {
+                "text": "2003",
+                "lemma": "2003",
+                "stem": "2003",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "sgushchenka2",
+        "gender": "female",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "sgushchenka",
+                "lemma": "sgushchenka",
+                "stem": "sgushchenka",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "2",
+                "lemma": "2",
+                "stem": "2",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "chick0308",
+        "gender": "female",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "chick",
+                "lemma": "chick",
+                "stem": "chick",
+                "pos": "NOUN",
+                "tag": "NN"
+            },
+            {
+                "text": "0308",
+                "lemma": "0308",
+                "stem": "0308",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "id_mayer_0801",
+        "gender": "female",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "i",
+                "lemma": "I",
+                "stem": "i",
+                "pos": "PRON",
+                "tag": "PRP"
+            },
+            {
+                "text": "d",
+                "lemma": "d",
+                "stem": "d",
+                "pos": "VERB",
+                "tag": "VBD"
+            },
+            {
+                "text": "mayer",
+                "lemma": "mayer",
+                "stem": "mayer",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "0801",
+                "lemma": "0801",
+                "stem": "0801",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "veronika_oswald",
+        "gender": "female",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "veronika",
+                "lemma": "veronika",
+                "stem": "veronika",
+                "pos": "NOUN",
+                "tag": "NNS"
+            },
+            {
+                "text": "oswald",
+                "lemma": "oswald",
+                "stem": "oswald",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "mariyashurigina",
+        "gender": "female",
+        "education": "technical",
+        "type": "номинативный",
+        "processed": [
+            {
+                "text": "mariyashurigina",
+                "lemma": "mariyashurigina",
+                "stem": "mariyashurigina",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "fuckubitch2",
+        "gender": "female",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "fuckubitch",
+                "lemma": "fuckubitch",
+                "stem": "fuckubitch",
+                "pos": "VERB",
+                "tag": "VB"
+            },
+            {
+                "text": "2",
+                "lemma": "2",
+                "stem": "2",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "alina_alink01",
+        "gender": "female",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "alina",
+                "lemma": "alina",
+                "stem": "alina",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "alink",
+                "lemma": "alink",
+                "stem": "alink",
+                "pos": "VERB",
+                "tag": "VBP"
+            },
+            {
+                "text": "01",
+                "lemma": "01",
+                "stem": "01",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "wepadali",
+        "gender": "female",
+        "education": "technical",
+        "type": "номинативный",
+        "processed": [
+            {
+                "text": "wepadali",
+                "lemma": "wepadali",
+                "stem": "wepadali",
+                "pos": "VERB",
+                "tag": "VBD"
+            }
+        ]
+    },
+    {
+        "nickname": "vasilevna_lash",
+        "gender": "female",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "vasilevna",
+                "lemma": "vasilevna",
+                "stem": "vasilevna",
+                "pos": "NOUN",
+                "tag": "NNS"
+            },
+            {
+                "text": "lash",
+                "lemma": "lash",
+                "stem": "lash",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "angelwhofell",
+        "gender": "female",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "angelwhofell",
+                "lemma": "angelwhofell",
+                "stem": "angelwhofel",
+                "pos": "VERB",
+                "tag": "VB"
+            }
+        ]
+    },
+    {
+        "nickname": "yasnezhik",
+        "gender": "female",
+        "education": "technical",
+        "type": "номинативный",
+        "processed": [
+            {
+                "text": "yasnezhik",
+                "lemma": "yasnezhik",
+                "stem": "yasnezhik",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "suicide_meow",
+        "gender": "female",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "suicide",
+                "lemma": "suicide",
+                "stem": "suicid",
+                "pos": "NOUN",
+                "tag": "NN"
+            },
+            {
+                "text": "meow",
+                "lemma": "meow",
+                "stem": "meow",
+                "pos": "VERB",
+                "tag": "VB"
+            }
+        ]
+    },
+    {
+        "nickname": "arina_tolstyck",
+        "gender": "female",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "arina",
+                "lemma": "arina",
+                "stem": "arina",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "tolstyck",
+                "lemma": "tolstyck",
+                "stem": "tolstyck",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "tasia_foma",
+        "gender": "female",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "tasia",
+                "lemma": "tasia",
+                "stem": "tasia",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "foma",
+                "lemma": "foma",
+                "stem": "foma",
+                "pos": "VERB",
+                "tag": "VB"
+            }
+        ]
+    },
+    {
+        "nickname": "id326921728",
+        "gender": "female",
+        "education": "technical",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "i",
+                "lemma": "I",
+                "stem": "i",
+                "pos": "PRON",
+                "tag": "PRP"
+            },
+            {
+                "text": "d",
+                "lemma": "d",
+                "stem": "d",
+                "pos": "VERB",
+                "tag": "VBD"
+            },
+            {
+                "text": "326921728",
+                "lemma": "326921728",
+                "stem": "326921728",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "id311152750",
+        "gender": "female",
+        "education": "technical",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "i",
+                "lemma": "I",
+                "stem": "i",
+                "pos": "PRON",
+                "tag": "PRP"
+            },
+            {
+                "text": "d",
+                "lemma": "d",
+                "stem": "d",
+                "pos": "VERB",
+                "tag": "VBD"
+            },
+            {
+                "text": "311152750",
+                "lemma": "311152750",
+                "stem": "311152750",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "katushka002",
+        "gender": "female",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "katushka",
+                "lemma": "katushka",
+                "stem": "katushka",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "002",
+                "lemma": "002",
+                "stem": "002",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "katyfffasai",
+        "gender": "female",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "katyfffasai",
+                "lemma": "katyfffasai",
+                "stem": "katyfffasai",
+                "pos": "NOUN",
+                "tag": "NNS"
+            }
+        ]
+    },
+    {
+        "nickname": "yaneunoia",
+        "gender": "female",
+        "education": "technical",
+        "type": "номинативный",
+        "processed": [
+            {
+                "text": "yaneunoia",
+                "lemma": "yaneunoia",
+                "stem": "yaneunoia",
+                "pos": "NOUN",
+                "tag": "NN"
+            }
+        ]
+    },
+    {
+        "nickname": "linabuzina13",
+        "gender": "female",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "linabuzina",
+                "lemma": "linabuzina",
+                "stem": "linabuzina",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "13",
+                "lemma": "13",
+                "stem": "13",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "vikastatsenko",
+        "gender": "female",
+        "education": "technical",
+        "type": "номинативный",
+        "processed": [
+            {
+                "text": "vikastatsenko",
+                "lemma": "vikastatsenko",
+                "stem": "vikastatsenko",
+                "pos": "ADJ",
+                "tag": "JJ"
+            }
+        ]
+    },
+    {
+        "nickname": "squirrelnet",
+        "gender": "female",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "squirrelnet",
+                "lemma": "squirrelnet",
+                "stem": "squirrelnet",
+                "pos": "NOUN",
+                "tag": "NN"
+            }
+        ]
+    },
+    {
+        "nickname": "yulia1506",
+        "gender": "female",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "yulia",
+                "lemma": "yulia",
+                "stem": "yulia",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "1506",
+                "lemma": "1506",
+                "stem": "1506",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "gordeeva190120",
+        "gender": "female",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "gordeeva",
+                "lemma": "gordeeva",
+                "stem": "gordeeva",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "190120",
+                "lemma": "190120",
+                "stem": "190120",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "fedorovauylia",
+        "gender": "female",
+        "education": "technical",
+        "type": "номинативный",
+        "processed": [
+            {
+                "text": "fedorovauylia",
+                "lemma": "fedorovauylia",
+                "stem": "fedorovauylia",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "lenae0202",
+        "gender": "female",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "lenae",
+                "lemma": "lenae",
+                "stem": "lena",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "0202",
+                "lemma": "0202",
+                "stem": "0202",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "nata_44_44",
+        "gender": "female",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "nata",
+                "lemma": "nata",
+                "stem": "nata",
+                "pos": "NOUN",
+                "tag": "NN"
+            },
+            {
+                "text": "44",
+                "lemma": "44",
+                "stem": "44",
+                "pos": "NUM",
+                "tag": "CD"
+            },
+            {
+                "text": "44",
+                "lemma": "44",
+                "stem": "44",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "chikibanan",
+        "gender": "female",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "chikibanan",
+                "lemma": "chikibanan",
+                "stem": "chikibanan",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "n.mogilina",
+        "gender": "female",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "n",
+                "lemma": "n",
+                "stem": "n",
+                "pos": "CCONJ",
+                "tag": "CC"
+            },
+            {
+                "text": "mogilina",
+                "lemma": "mogilina",
+                "stem": "mogilina",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "nastyaerma",
+        "gender": "female",
+        "education": "technical",
+        "type": "номинативный",
+        "processed": [
+            {
+                "text": "nastyaerma",
+                "lemma": "nastyaerma",
+                "stem": "nastyaerma",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "his_ks",
+        "gender": "female",
+        "education": "technical",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "his",
+                "lemma": "his",
+                "stem": "his",
+                "pos": "PRON",
+                "tag": "PRP$"
+            },
+            {
+                "text": "ks",
+                "lemma": "ks",
+                "stem": "ks",
+                "pos": "ADP",
+                "tag": "IN"
+            }
+        ]
+    },
+    {
+        "nickname": "id179546831",
+        "gender": "female",
+        "education": "technical",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "i",
+                "lemma": "I",
+                "stem": "i",
+                "pos": "PRON",
+                "tag": "PRP"
+            },
+            {
+                "text": "d",
+                "lemma": "d",
+                "stem": "d",
+                "pos": "VERB",
+                "tag": "VBD"
+            },
+            {
+                "text": "179546831",
+                "lemma": "179546831",
+                "stem": "179546831",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "id300598109",
+        "gender": "female",
+        "education": "technical",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "i",
+                "lemma": "I",
+                "stem": "i",
+                "pos": "PRON",
+                "tag": "PRP"
+            },
+            {
+                "text": "d",
+                "lemma": "d",
+                "stem": "d",
+                "pos": "VERB",
+                "tag": "VBD"
+            },
+            {
+                "text": "300598109",
+                "lemma": "300598109",
+                "stem": "300598109",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "a.sharafutdinovaa20",
+        "gender": "female",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "a",
+                "lemma": "a",
+                "stem": "a",
+                "pos": "PRON",
+                "tag": "DT"
+            },
+            {
+                "text": "sharafutdinovaa",
+                "lemma": "sharafutdinovaa",
+                "stem": "sharafutdinovaa",
+                "pos": "VERB",
+                "tag": "VB"
+            },
+            {
+                "text": "20",
+                "lemma": "20",
+                "stem": "20",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "kravchenko163",
+        "gender": "male",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "kravchenko",
+                "lemma": "kravchenko",
+                "stem": "kravchenko",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "163",
+                "lemma": "163",
+                "stem": "163",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "tornberi",
+        "gender": "male",
+        "education": "technical",
+        "type": "номинативный",
+        "processed": [
+            {
+                "text": "tornberi",
+                "lemma": "tornberi",
+                "stem": "tornberi",
+                "pos": "NOUN",
+                "tag": "NN"
+            }
+        ]
+    },
+    {
+        "nickname": "cypo4ek",
+        "gender": "male",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "cypo",
+                "lemma": "cypo",
+                "stem": "cypo",
+                "pos": "VERB",
+                "tag": "VB"
+            },
+            {
+                "text": "4",
+                "lemma": "4",
+                "stem": "4",
+                "pos": "NUM",
+                "tag": "CD"
+            },
+            {
+                "text": "ek",
+                "lemma": "ek",
+                "stem": "ek",
+                "pos": "ADV",
+                "tag": "RB"
+            }
+        ]
+    },
+    {
+        "nickname": "legoshindv",
+        "gender": "male",
+        "education": "technical",
+        "type": "номинативный",
+        "processed": [
+            {
+                "text": "legoshindv",
+                "lemma": "legoshindv",
+                "stem": "legoshindv",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "dimaharis",
+        "gender": "male",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "dimaharis",
+                "lemma": "dimaharis",
+                "stem": "dimahari",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "egorkara",
+        "gender": "male",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "egorkara",
+                "lemma": "egorkara",
+                "stem": "egorkara",
+                "pos": "VERB",
+                "tag": "VB"
+            }
+        ]
+    },
+    {
+        "nickname": "id209481265",
+        "gender": "male",
+        "education": "technical",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "i",
+                "lemma": "I",
+                "stem": "i",
+                "pos": "PRON",
+                "tag": "PRP"
+            },
+            {
+                "text": "d",
+                "lemma": "d",
+                "stem": "d",
+                "pos": "VERB",
+                "tag": "VBD"
+            },
+            {
+                "text": "209481265",
+                "lemma": "209481265",
+                "stem": "209481265",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "lllbad_boylll",
+        "gender": "male",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "lllbad",
+                "lemma": "lllbad",
+                "stem": "lllbad",
+                "pos": "ADV",
+                "tag": "RB"
+            },
+            {
+                "text": "boylll",
+                "lemma": "boylll",
+                "stem": "boylll",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "sahsanowa",
+        "gender": "male",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "sahsanowa",
+                "lemma": "sahsanowa",
+                "stem": "sahsanowa",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "kaznacheev2013",
+        "gender": "male",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "kaznacheev",
+                "lemma": "kaznacheev",
+                "stem": "kaznacheev",
+                "pos": "NOUN",
+                "tag": "NN"
+            },
+            {
+                "text": "2013",
+                "lemma": "2013",
+                "stem": "2013",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "hookshit",
+        "gender": "male",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "hookshit",
+                "lemma": "hookshit",
+                "stem": "hookshit",
+                "pos": "ADJ",
+                "tag": "JJ"
+            }
+        ]
+    },
+    {
+        "nickname": "fewnicher",
+        "gender": "male",
+        "education": "technical",
+        "type": "номинативный",
+        "processed": [
+            {
+                "text": "fewnicher",
+                "lemma": "fewnicher",
+                "stem": "fewnich",
+                "pos": "ADV",
+                "tag": "RB"
+            }
+        ]
+    },
+    {
+        "nickname": "",
+        "gender": "male",
+        "education": "technical",
+        "type": "составной",
+        "processed": []
+    },
+    {
+        "nickname": "4black_nek5",
+        "gender": "male",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "4",
+                "lemma": "4",
+                "stem": "4",
+                "pos": "NUM",
+                "tag": "CD"
+            },
+            {
+                "text": "black",
+                "lemma": "black",
+                "stem": "black",
+                "pos": "ADJ",
+                "tag": "JJ"
+            },
+            {
+                "text": "nek",
+                "lemma": "nek",
+                "stem": "nek",
+                "pos": "ADJ",
+                "tag": "JJ"
+            },
+            {
+                "text": "5",
+                "lemma": "5",
+                "stem": "5",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "id62745228",
+        "gender": "male",
+        "education": "technical",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "i",
+                "lemma": "I",
+                "stem": "i",
+                "pos": "PRON",
+                "tag": "PRP"
+            },
+            {
+                "text": "d",
+                "lemma": "d",
+                "stem": "d",
+                "pos": "VERB",
+                "tag": "VBD"
+            },
+            {
+                "text": "62745228",
+                "lemma": "62745228",
+                "stem": "62745228",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "letay_bo_chax",
+        "gender": "male",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "letay",
+                "lemma": "letay",
+                "stem": "letay",
+                "pos": "VERB",
+                "tag": "VB"
+            },
+            {
+                "text": "bo",
+                "lemma": "bo",
+                "stem": "bo",
+                "pos": "ADP",
+                "tag": "IN"
+            },
+            {
+                "text": "chax",
+                "lemma": "chax",
+                "stem": "chax",
+                "pos": "ADJ",
+                "tag": "JJ"
+            }
+        ]
+    },
+    {
+        "nickname": "churkasdonbassa",
+        "gender": "male",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "churkasdonbassa",
+                "lemma": "churkasdonbassa",
+                "stem": "churkasdonbassa",
+                "pos": "ADJ",
+                "tag": "JJ"
+            }
+        ]
+    },
+    {
+        "nickname": "d_imeron",
+        "gender": "male",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "d",
+                "lemma": "d",
+                "stem": "d",
+                "pos": "X",
+                "tag": "LS"
+            },
+            {
+                "text": "imeron",
+                "lemma": "imeron",
+                "stem": "imeron",
+                "pos": "NOUN",
+                "tag": "NN"
+            }
+        ]
+    },
+    {
+        "nickname": "dmitry_lik",
+        "gender": "male",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "dmitry",
+                "lemma": "dmitry",
+                "stem": "dmitri",
+                "pos": "NOUN",
+                "tag": "NN"
+            },
+            {
+                "text": "lik",
+                "lemma": "lik",
+                "stem": "lik",
+                "pos": "VERB",
+                "tag": "VB"
+            }
+        ]
+    },
+    {
+        "nickname": "albatyrev",
+        "gender": "male",
+        "education": "technical",
+        "type": "номинативный",
+        "processed": [
+            {
+                "text": "albatyrev",
+                "lemma": "albatyrev",
+                "stem": "albatyrev",
+                "pos": "VERB",
+                "tag": "VBN"
+            }
+        ]
+    },
+    {
+        "nickname": "id71942995",
+        "gender": "male",
+        "education": "technical",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "i",
+                "lemma": "I",
+                "stem": "i",
+                "pos": "PRON",
+                "tag": "PRP"
+            },
+            {
+                "text": "d",
+                "lemma": "d",
+                "stem": "d",
+                "pos": "VERB",
+                "tag": "VBD"
+            },
+            {
+                "text": "71942995",
+                "lemma": "71942995",
+                "stem": "71942995",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "s.kushukov",
+        "gender": "male",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "s",
+                "lemma": "s",
+                "stem": "s",
+                "pos": "X",
+                "tag": "LS"
+            },
+            {
+                "text": "kushukov",
+                "lemma": "kushukov",
+                "stem": "kushukov",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "typo_dimka.samara",
+        "gender": "male",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "typo",
+                "lemma": "typo",
+                "stem": "typo",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "dimka",
+                "lemma": "dimka",
+                "stem": "dimka",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "samara",
+                "lemma": "samara",
+                "stem": "samara",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "id151729530",
+        "gender": "male",
+        "education": "technical",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "i",
+                "lemma": "I",
+                "stem": "i",
+                "pos": "PRON",
+                "tag": "PRP"
+            },
+            {
+                "text": "d",
+                "lemma": "d",
+                "stem": "d",
+                "pos": "VERB",
+                "tag": "VBD"
+            },
+            {
+                "text": "151729530",
+                "lemma": "151729530",
+                "stem": "151729530",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "bey0nd21",
+        "gender": "male",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "bey",
+                "lemma": "bey",
+                "stem": "bey",
+                "pos": "VERB",
+                "tag": "VB"
+            },
+            {
+                "text": "0",
+                "lemma": "0",
+                "stem": "0",
+                "pos": "NUM",
+                "tag": "CD"
+            },
+            {
+                "text": "nd",
+                "lemma": "nd",
+                "stem": "nd",
+                "pos": "ADV",
+                "tag": "RB"
+            },
+            {
+                "text": "21",
+                "lemma": "21",
+                "stem": "21",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "greenext",
+        "gender": "male",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "greenext",
+                "lemma": "greenext",
+                "stem": "greenext",
+                "pos": "VERB",
+                "tag": "VB"
+            }
+        ]
+    },
+    {
+        "nickname": "a2lsfreya",
+        "gender": "male",
+        "education": "technical",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "a",
+                "lemma": "a",
+                "stem": "a",
+                "pos": "PRON",
+                "tag": "DT"
+            },
+            {
+                "text": "2",
+                "lemma": "2",
+                "stem": "2",
+                "pos": "NUM",
+                "tag": "CD"
+            },
+            {
+                "text": "lsfreya",
+                "lemma": "lsfreya",
+                "stem": "lsfreya",
+                "pos": "PROPN",
+                "tag": "NNP"
+            }
+        ]
+    },
+    {
+        "nickname": "vadsaiman",
+        "gender": "male",
+        "education": "technical",
+        "type": "номинативный",
+        "processed": [
+            {
+                "text": "vadsaiman",
+                "lemma": "vadsaiman",
+                "stem": "vadsaiman",
+                "pos": "NOUN",
+                "tag": "NN"
+            }
+        ]
+    },
+    {
+        "nickname": "molod_i_glup00",
+        "gender": "male",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "molod",
+                "lemma": "molod",
+                "stem": "molod",
+                "pos": "NOUN",
+                "tag": "NN"
+            },
+            {
+                "text": "i",
+                "lemma": "I",
+                "stem": "i",
+                "pos": "PRON",
+                "tag": "PRP"
+            },
+            {
+                "text": "glup",
+                "lemma": "glup",
+                "stem": "glup",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "00",
+                "lemma": "00",
+                "stem": "00",
+                "pos": "PUNCT",
+                "tag": "NFP"
+            }
+        ]
+    },
+    {
+        "nickname": "b1uessky999",
+        "gender": "male",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "b",
+                "lemma": "b",
+                "stem": "b",
+                "pos": "X",
+                "tag": "LS"
+            },
+            {
+                "text": "1",
+                "lemma": "1",
+                "stem": "1",
+                "pos": "NUM",
+                "tag": "CD"
+            },
+            {
+                "text": "uessky",
+                "lemma": "uessky",
+                "stem": "uesski",
+                "pos": "PROPN",
+                "tag": "NNP"
+            },
+            {
+                "text": "999",
+                "lemma": "999",
+                "stem": "999",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "id262290608",
+        "gender": "male",
+        "education": "technical",
+        "type": "неопределенный",
+        "processed": [
+            {
+                "text": "i",
+                "lemma": "I",
+                "stem": "i",
+                "pos": "PRON",
+                "tag": "PRP"
+            },
+            {
+                "text": "d",
+                "lemma": "d",
+                "stem": "d",
+                "pos": "VERB",
+                "tag": "VBD"
+            },
+            {
+                "text": "262290608",
+                "lemma": "262290608",
+                "stem": "262290608",
+                "pos": "NUM",
+                "tag": "CD"
+            }
+        ]
+    },
+    {
+        "nickname": "only1jer3my",
+        "gender": "male",
+        "education": "technical",
+        "type": "составной",
+        "processed": [
+            {
+                "text": "only",
+                "lemma": "only",
+                "stem": "onli",
+                "pos": "ADV",
+                "tag": "RB"
+            },
+            {
+                "text": "1",
+                "lemma": "1",
+                "stem": "1",
+                "pos": "NUM",
+                "tag": "CD"
+            },
+            {
+                "text": "jer",
+                "lemma": "jer",
+                "stem": "jer",
+                "pos": "NOUN",
+                "tag": "NN"
+            },
+            {
+                "text": "3",
+                "lemma": "3",
+                "stem": "3",
+                "pos": "NUM",
+                "tag": "CD"
+            },
+            {
+                "text": "my",
+                "lemma": "my",
+                "stem": "my",
+                "pos": "PRON",
+                "tag": "PRP$"
+            }
+        ]
+    }
+]
