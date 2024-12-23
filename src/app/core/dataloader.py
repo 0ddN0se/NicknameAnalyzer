@@ -17,6 +17,7 @@ class DataLoader:
         return texts, labels
 
     def prepare_data(self, test_size=0.2):
+        """Разделение данных на обучающую (80%) и тестовую (20%) выборки"""
         texts, labels = self.load_data()
         train_texts, test_texts, train_labels, test_labels = train_test_split(
             texts, labels, test_size=test_size, random_state=42

@@ -12,8 +12,6 @@ import os
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../..')))
 
-
-
 logging.basicConfig(level=logging.INFO)
 
 # Конфигурация гиперпараметров
@@ -26,6 +24,7 @@ config = {
 # 1. Загрузка и подготовка данных
 logging.info("Загрузка данных...")
 data_loader = DataLoader('src/data/dataset/processed_nicknames.json')
+# data_loader = DataLoader('src/data/dataset/processed_vkdata.json')
 train_texts, test_texts, train_labels, test_labels = data_loader.prepare_data()
 train_labels_encoded, test_labels_encoded, label_encoder = data_loader.encode_labels(train_labels, test_labels)
 
@@ -53,6 +52,10 @@ logging.info("Датасеты готовы.")
 logging.info("Инициализация модели...")
 model = BertModel(num_labels=len(label_encoder.classes_)).get_model()
 logging.info("Модель успешно инициализирована.")
+logging.info("Размер батча")
+logging.info(config["batch_size"])
+logging.info("Количество эпох")
+logging.info(config["epochs"])
 
 # 5. Обучение
 logging.info("Запуск процесса обучения...")
@@ -66,11 +69,18 @@ evaluation_results = trainer.evaluate()
 logging.info("Оценка завершена.")
 
 # Вывод результатов
-print(f"Accuracy: {evaluation_results['accuracy']}")
-print(f"F1-Score: {evaluation_results['f1_score']}")
+# print(f"Accuracy: {evaluation_results['accuracy']}")
+# print(f"F1-Score: {evaluation_results['f1_score']}")
+# Вывод результатов
+print("Результаты оценки модели:")
+print(f"Accuracy: {evaluation_results['accuracy']:.4f}")
+print(f"Precision: {evaluation_results['precision']:.4f}")
+print(f"Recall: {evaluation_results['recall']:.4f}")
+print(f"F1-Score: {evaluation_results['f1_score']:.4f}")
+print(f"AUC-ROC: {evaluation_results['auc_roc']:.4f}")
 
 # Сохранение модели
 logging.info("Сохранение модели...")
-trainer.save_model('model_checkpoint.pth')
-logging.info("Модель сохранена в model_checkpoint.pth.")
+trainer.save_model('model_checkpoint_vk.pth')
+logging.info("Модель сохранена в model_checkpoint_vk.pth.")
 

@@ -25,7 +25,7 @@ def predict_nickname(nickname, model, tokenizer, label_encoder):
 # Пример использования
 if __name__ == "__main__":
     # Загружаем модель и токенизатор
-    model = load_model('model_checkpoint.pth')
+    model = load_model('model_checkpoint_vk.pth')
     tokenizer = Tokenizer()
     label_encoder = LabelEncoder()
     label_encoder.fit(['неопределенный', 'номинативный', 'составной'])  # Обучаем на возможных метках

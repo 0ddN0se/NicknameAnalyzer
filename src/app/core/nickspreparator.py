@@ -53,7 +53,7 @@ class NicknameProcessor:
             elif doc[0].pos_ == "VERB":
                 return "предикативный"
             else:
-                return "неопределённый"
+                return "неопределенный"
 
     def process_nicknames(self, nicknames):
         """

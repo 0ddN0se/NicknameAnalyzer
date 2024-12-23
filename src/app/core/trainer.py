@@ -1,6 +1,9 @@
 import torch
+import numpy as np
+from sklearn.preprocessing import label_binarize
 from transformers import AdamW
-from sklearn.metrics import classification_report
+from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, roc_auc_score
+
 
 class Trainer:
     def __init__(self, model, train_loader, test_loader, device='cpu'):
@@ -28,18 +31,44 @@ class Trainer:
 
     def evaluate(self):
         self.model.eval()
-        predictions, true_labels = [], []
+        predictions, true_labels, probabilities = [], [], []
         with torch.no_grad():
             for batch in self.test_loader:
                 inputs, labels = batch
                 inputs = {key: val.to(self.device) for key, val in inputs.items()}
                 labels = labels.to(self.device)
                 outputs = self.model(**inputs)
-                preds = torch.argmax(outputs.logits, axis=1)
+
+                # Вероятности (softmax для многоклассовой классификации)
+                probs = torch.nn.functional.softmax(outputs.logits, dim=1)
+                preds = torch.argmax(probs, axis=1)
+
                 predictions.extend(preds.tolist())
                 true_labels.extend(labels.tolist())
-        report = classification_report(true_labels, predictions, output_dict=True)
-        return {"accuracy": report["accuracy"], "f1_score": report["macro avg"]["f1-score"]}
+                probabilities.extend(probs.cpu().numpy())  # Для AUC-ROC
+
+        # Преобразование вероятностей в NumPy-массив
+        probabilities = np.array(probabilities)
+
+        # Убедимся, что число классов совпадает
+        all_classes = list(range(probabilities.shape[1]))
+        true_labels_binarized = label_binarize(true_labels, classes=all_classes)
+
+        # Расчёт метрик
+        accuracy = accuracy_score(true_labels, predictions)
+        precision = precision_score(true_labels, predictions, average="macro")
+        recall = recall_score(true_labels, predictions, average="macro")
+        f1 = f1_score(true_labels, predictions, average="macro")
+        auc_roc = roc_auc_score(true_labels_binarized, probabilities, multi_class="ovo")
+
+        # Возвращаем метрики
+        return {
+            "accuracy": accuracy,
+            "precision": precision,
+            "recall": recall,
+            "f1_score": f1,
+            "auc_roc": auc_roc
+        }
 
     def save_model(self, path):
         torch.save(self.model.state_dict(), path)
