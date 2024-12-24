@@ -42,70 +42,79 @@ class NicknameAnalyzer:
         type_counts = self.get_type_distribution()
         labels, counts = zip(*type_counts.items())
 
-        # Настройка фигуры и шрифта
-        plt.figure(figsize=(10, 6))
-        plt.pie(
-            counts, labels=labels, autopct='%1.1f%%', startangle=140,
-            textprops={'fontsize': 12}
-        )
+        total = sum(counts)
+        percentages = [count / total * 100 for count in counts]
+
+        plt.figure(figsize=(12, 6))
+        bars = plt.bar(labels, counts, color='skyblue', alpha=0.7)
+
+        for bar, percentage in zip(bars, percentages):
+            plt.text(
+                bar.get_x() + bar.get_width() / 2, bar.get_height(),
+                f'{percentage:.1f}%', ha='center', va='bottom', fontsize=10
+            )
+
         plt.title("Частотное распределение типов никнеймов", fontsize=16)
-        plt.tight_layout()  # Улучшение компоновки
+        plt.xlabel("Типы никнеймов", fontsize=12)
+        plt.ylabel("Частота", fontsize=12)
+        plt.xticks(rotation=45, fontsize=10)
+        plt.tight_layout()
         plt.show()
 
     def visualize_gender_distribution(self):
         gender_counts = self.get_gender_based_distribution()
 
-        # Настройка фигуры
-        plt.figure(figsize=(10, 6))
+        plt.figure(figsize=(12, 6))
+
+        total_counts = {gender: sum(counts.values()) for gender, counts in gender_counts.items()}
 
         for gender, counts in gender_counts.items():
             labels, values = zip(*counts.items())
-            plt.bar(labels, values, label=gender, alpha=0.7)
+            total = total_counts[gender]
+            percentages = [value / total * 100 for value in values]
+
+            bars = plt.bar(labels, values, label=gender, alpha=0.7)
+
+            for bar, percentage in zip(bars, percentages):
+                plt.text(
+                    bar.get_x() + bar.get_width() / 2, bar.get_height(),
+                    f'{percentage:.1f}%', ha='center', va='bottom', fontsize=10
+                )
 
         plt.title("Типы никнеймов по полу", fontsize=16)
         plt.xlabel("Типы никнеймов", fontsize=12)
         plt.ylabel("Частота", fontsize=12)
-        plt.xticks(rotation=45, fontsize=10)  # Поворот меток по оси X
-        plt.yticks(fontsize=10)
+        plt.xticks(rotation=45, fontsize=10)
         plt.legend(title="Пол", fontsize=12)
-        plt.tight_layout()  # Улучшение компоновки
+        plt.tight_layout()
         plt.show()
 
     def visualize_education_distribution(self):
         edu_counts = self.get_education_based_distribution()
 
-        # Настройка фигуры
-        plt.figure(figsize=(12, 8))
+        plt.figure(figsize=(12, 6))
+
+        total_counts = {edu: sum(counts.values()) for edu, counts in edu_counts.items() if counts}
 
         for edu, counts in edu_counts.items():
-            labels, values = zip(*counts.items()) if counts else ([], [])
-            plt.bar(labels, values, label=edu, alpha=0.7)
+            if not counts:
+                continue
+            labels, values = zip(*counts.items())
+            total = total_counts[edu]
+            percentages = [value / total * 100 for value in values]
+
+            bars = plt.bar(labels, values, label=edu, alpha=0.7)
+
+            for bar, percentage in zip(bars, percentages):
+                plt.text(
+                    bar.get_x() + bar.get_width() / 2, bar.get_height(),
+                    f'{percentage:.1f}%', ha='center', va='bottom', fontsize=10
+                )
 
         plt.title("Типы никнеймов по образованию", fontsize=16)
         plt.xlabel("Типы никнеймов", fontsize=12)
         plt.ylabel("Частота", fontsize=12)
-        plt.xticks(rotation=45, fontsize=10)  # Поворот меток по оси X
-        plt.yticks(fontsize=10)
+        plt.xticks(rotation=45, fontsize=10)
         plt.legend(title="Образование", fontsize=12)
-        plt.tight_layout()  # Улучшение компоновки
+        plt.tight_layout()
         plt.show()
-
-
-if __name__ == "__main__":
-
-    # analyzer = NicknameAnalyzer('src/data/dataset/nicknames.json')
-    analyzer = NicknameAnalyzer('src/data/dataset/processed_vkdata.json')
-
-    print("Частотное распределение типов никнеймов:")
-    print(analyzer.get_type_distribution())
-
-    print("\nТипы никнеймов по полу:")
-    print(analyzer.get_gender_based_distribution())
-
-    print("\nТипы никнеймов по образованию:")
-    print(analyzer.get_education_based_distribution())
-
-    # Visualization examples
-    analyzer.visualize_type_distribution()
-    analyzer.visualize_gender_distribution()
-    analyzer.visualize_education_distribution()

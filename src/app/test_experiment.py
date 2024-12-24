@@ -8,33 +8,55 @@ from core.model import BertModel
 from core.trainer import Trainer
 from torch.utils.data import DataLoader as TorchDataLoader
 
+
 @pytest.mark.parametrize(
     "batch_size, epochs, data_link",
     [
+        (8, 1, "src/data/dataset/processed_nicknames.json"),
+        (8, 2, "src/data/dataset/processed_nicknames.json"),
+        (8, 3, "src/data/dataset/processed_nicknames.json"),
         (8, 4, "src/data/dataset/processed_nicknames.json"),
+        (8, 5, "src/data/dataset/processed_nicknames.json"),
         (8, 6, "src/data/dataset/processed_nicknames.json"),
+        (8, 7, "src/data/dataset/processed_nicknames.json"),
         (8, 8, "src/data/dataset/processed_nicknames.json"),
+        (8, 9, "src/data/dataset/processed_nicknames.json"),
         (8, 10, "src/data/dataset/processed_nicknames.json"),
+        (16, 1, "src/data/dataset/processed_nicknames.json"),
+        (16, 2, "src/data/dataset/processed_nicknames.json"),
+        (16, 3, "src/data/dataset/processed_nicknames.json"),
         (16, 4, "src/data/dataset/processed_nicknames.json"),
+        (16, 5, "src/data/dataset/processed_nicknames.json"),
         (16, 6, "src/data/dataset/processed_nicknames.json"),
+        (16, 7, "src/data/dataset/processed_nicknames.json"),
         (16, 8, "src/data/dataset/processed_nicknames.json"),
+        (16, 9, "src/data/dataset/processed_nicknames.json"),
         (16, 10, "src/data/dataset/processed_nicknames.json"),
+        (32, 1, "src/data/dataset/processed_nicknames.json"),
+        (32, 2, "src/data/dataset/processed_nicknames.json"),
+        (32, 3, "src/data/dataset/processed_nicknames.json"),
         (32, 4, "src/data/dataset/processed_nicknames.json"),
+        (32, 5, "src/data/dataset/processed_nicknames.json"),
         (32, 6, "src/data/dataset/processed_nicknames.json"),
+        (32, 7, "src/data/dataset/processed_nicknames.json"),
         (32, 8, "src/data/dataset/processed_nicknames.json"),
+        (32, 9, "src/data/dataset/processed_nicknames.json"),
         (32, 10, "src/data/dataset/processed_nicknames.json"),
-        (8, 4, "src/data/dataset/processed_vkdata.json"),
-        (8, 6, "src/data/dataset/processed_vkdata.json"),
-        (8, 8, "src/data/dataset/processed_vkdata.json"),
-        (8, 10, "src/data/dataset/processed_vkdata.json"),
-        (16, 4, "src/data/dataset/processed_vkdata.json"),
-        (16, 6, "src/data/dataset/processed_vkdata.json"),
-        (16, 8, "src/data/dataset/processed_vkdata.json"),
-        (16, 10, "src/data/dataset/processed_vkdata.json"),
-        (32, 4, "src/data/dataset/processed_vkdata.json"),
-        (32, 6, "src/data/dataset/processed_vkdata.json"),
-        (32, 8, "src/data/dataset/processed_vkdata.json"),
-        (32, 10, "src/data/dataset/processed_vkdata.json"),
+
+        # (8, 4, "src/data/dataset/processed_vkdata.json"),
+        # (8, 6, "src/data/dataset/processed_vkdata.json"),
+        # (8, 8, "src/data/dataset/processed_vkdata.json"),
+        # (8, 10, "src/data/dataset/processed_vkdata.json"),
+        # (16, 4, "src/data/dataset/processed_vkdata.json"),
+        # (16, 6, "src/data/dataset/processed_vkdata.json"),
+        # (16, 8, "src/data/dataset/processed_vkdata.json"),
+        # (16, 10, "src/data/dataset/processed_vkdata.json"),
+        # (32, 4, "src/data/dataset/processed_vkdata.json"),
+        # (32, 6, "src/data/dataset/processed_vkdata.json"),
+        # (32, 8, "src/data/dataset/processed_vkdata.json"),
+        # (32, 10, "src/data/dataset/processed_vkdata.json"),
+        # (32, 1, "src/data/dataset/processed_nicknames.json"),
+        # (32, 1, "src/data/dataset/processed_vkdata.json"),
     ]
 )
 def test_experiment(batch_size, epochs, data_link):
@@ -52,7 +74,8 @@ def test_experiment(batch_size, epochs, data_link):
     experiment_log = {
         "id": f"{batch_size}_{epochs}_{data_link}",
         "config": config,
-        "metrics": {}
+        "metrics": {},
+        "losses": ""
     }
 
     # 1. Загрузка и подготовка данных
@@ -77,17 +100,27 @@ def test_experiment(batch_size, epochs, data_link):
 
     # 5. Обучение
     trainer = Trainer(model, train_loader, test_loader, device='cpu')
-    trainer.train(epochs=config["epochs"])
+    losses = trainer.train(epochs=config["epochs"])  # Получаем потери по эпохам
+    # Преобразуем список потерь в строку
+    experiment_log["losses"] = " | ".join([f"Epoch {i + 1}: Loss {loss:.4f}" for i, loss in enumerate(losses)])
 
     # 6. Оценка
     evaluation_results = trainer.evaluate()
     experiment_log["metrics"] = evaluation_results
 
-    # Сохранение результатов в файл (перезаписываем файл)
     output_path = "src/data/experiments/experiment_results.json"
+    try:
+        with open(output_path, 'r', encoding='utf-8') as log_file:
+            all_results = json.load(log_file)
+    except FileNotFoundError:
+        all_results = []
+
+    all_results.append(experiment_log)
+
     with open(output_path, 'w', encoding='utf-8') as log_file:
-        json.dump([experiment_log], log_file, ensure_ascii=False, indent=4)
+        json.dump(all_results, log_file, ensure_ascii=False, indent=4)
 
     # Убедимся, что метрики вычислены корректно
     assert evaluation_results["accuracy"] > 0, "Accuracy должна быть больше 0"
     assert evaluation_results["f1_score"] > 0, "F1-Score должна быть больше 0"
+

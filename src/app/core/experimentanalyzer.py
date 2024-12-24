@@ -94,7 +94,8 @@ class ExperimentAnalyzer:
                 "precision": entry["metrics"]["precision"],
                 "recall": entry["metrics"]["recall"],
                 "f1_score": entry["metrics"]["f1_score"],
-                "auc_roc": entry["metrics"]["auc_roc"]
+                "auc_roc": entry["metrics"]["auc_roc"],
+                "losses": entry["losses"],
             }
             rows.append(row)
 

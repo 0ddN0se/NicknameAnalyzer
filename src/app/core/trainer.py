@@ -15,6 +15,7 @@ class Trainer:
 
     def train(self, epochs):
         self.model.train()
+        epoch_losses = []  # Список для записи потерь
         for epoch in range(epochs):
             total_loss = 0
             for batch in self.train_loader:
@@ -27,7 +28,10 @@ class Trainer:
                 loss.backward()
                 self.optimizer.step()
                 total_loss += loss.item()
-            print(f"Epoch {epoch + 1}, Loss: {total_loss / len(self.train_loader)}")
+            avg_loss = total_loss / len(self.train_loader)
+            epoch_losses.append(avg_loss)  # Сохраняем среднюю потерю за эпоху
+            print(f"Epoch {epoch + 1}, Loss: {avg_loss}")
+        return epoch_losses  # Возвращаем список потерь
 
     def evaluate(self):
         self.model.eval()
@@ -59,7 +63,8 @@ class Trainer:
         precision = precision_score(true_labels, predictions, average="macro")
         recall = recall_score(true_labels, predictions, average="macro")
         f1 = f1_score(true_labels, predictions, average="macro")
-        auc_roc = roc_auc_score(true_labels_binarized, probabilities, multi_class="ovo")
+        # auc_roc = roc_auc_score(true_labels_binarized, probabilities, multi_class="ovo")
+        auc_roc = roc_auc_score(true_labels_binarized, probabilities, average="weighted", multi_class="ovo")
 
         # Возвращаем метрики
         return {

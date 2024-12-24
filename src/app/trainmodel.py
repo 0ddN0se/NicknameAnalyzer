@@ -17,7 +17,7 @@ logging.basicConfig(level=logging.INFO)
 # Конфигурация гиперпараметров
 config = {
     "batch_size": 8,
-    "epochs": 5,
+    "epochs": 8,
     "learning_rate": 5e-5
 }
 
@@ -69,9 +69,6 @@ evaluation_results = trainer.evaluate()
 logging.info("Оценка завершена.")
 
 # Вывод результатов
-# print(f"Accuracy: {evaluation_results['accuracy']}")
-# print(f"F1-Score: {evaluation_results['f1_score']}")
-# Вывод результатов
 print("Результаты оценки модели:")
 print(f"Accuracy: {evaluation_results['accuracy']:.4f}")
 print(f"Precision: {evaluation_results['precision']:.4f}")
@@ -81,6 +78,6 @@ print(f"AUC-ROC: {evaluation_results['auc_roc']:.4f}")
 
 # Сохранение модели
 logging.info("Сохранение модели...")
-trainer.save_model('model_checkpoint_vk.pth')
-logging.info("Модель сохранена в model_checkpoint_vk.pth.")
+trainer.save_model('core.pth')
+logging.info("Модель сохранена в core.pth.")
 
